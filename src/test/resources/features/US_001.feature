@@ -2,7 +2,7 @@ Feature:
   Scenario:
     Given user navigates to homepage
 
-   # eliff
+   # elifff
  #We haven't started yet We willlllll
   # New proje is started
     #BU SATIRI DEGISTIRIYORUM
@@ -24,6 +24,8 @@ Feature:
   # elifsena
   #elifsena1
  #name
+  #AliOzturk
+#ArtvinEskisehir
 
 
 
